@@ -1,5 +1,5 @@
 # Sidebar with Scrollbar
-A simple sidebar with a scrollbar if needed. [Preview](https://fdavidsen.github.io/sidebar-with-scrollbar/)
+Simple sidebar with a scrollbar if needed. [Preview](https://fdavidsen.github.io/sidebar-with-scrollbar/)
 
 ## About
 This small component is built on top of [Bootstrap](https://getbootstrap.com/) which is free to use and adapt to your project.
