@@ -1,4 +1,4 @@
-# sidebar-with-scrollbar
+# Sidebar with Scrollbar
 
 A simple sidebar with a scrollbar if needed. This small component is free to use and adapt to your project.
 
